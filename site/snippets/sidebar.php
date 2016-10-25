@@ -1,6 +1,6 @@
 
 <aside>
-  <p class="intro"><?php echo $site->description()->kirbytext() ?></p>
+  <?php /*<p class="intro"><?php echo $site->description()->kirbytext() ?></p> */?>
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <nav class="sidebar-nav" role="navigation">
     <ul>

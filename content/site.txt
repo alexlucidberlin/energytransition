@@ -1,4 +1,4 @@
-Title: KDoc Kirby Theme
+Title: Energy Transition
 
 ----
 
@@ -6,7 +6,7 @@ Author: Nate Steiner
 
 ----
 
-Description: A Kirby theme for documentation sites
+Description: Energy transition site
 
 ----
 

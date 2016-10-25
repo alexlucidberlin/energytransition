@@ -1,0 +1,28 @@
+Title: 2016-10-25, 15:14:28
+
+----
+
+Text: 
+
+There are reasons to switch to renewable energy and to increase energy conservation, and there are reasons to do so now.
+
+## A - Fighting climate change
+The burning of coal, oil, and gas is causing our climate to overheat. Our current energy supply is not sustainable. One major aim of the Energiewende is to decarbonize energy supplied by switching to renewable sources and reducing demand by means of greater efficiency.
+
+## B - Reducing Energy Imports
+Germany imports about two thirds of its energy. Renewables and energy efficiency help reduce imports significantly, thereby increasing Germany's energy security.
+
+## C - Stimulating Technology Innovation and The Green Economy
+The energy transition boosts green innovations, creates jobs, and helps Germany position itself as an exporter of green technologies.
+
+----
+
+Revision-title: Why the Energiewende
+
+----
+
+Revision-action: update
+
+----
+
+Revision-template: default

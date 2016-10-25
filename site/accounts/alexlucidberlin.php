@@ -8,7 +8,4 @@ language: en
 role: admin
 history:
   - >
-    why-the-energiewende/c-stimulating-technology-innovation-and-the-green-economy
-  - why-the-energiewende/b-reducing-energy-imports
-  - why-the-energiewende/a-fighting-climate-change
-  - why-the-energiewende
+    the-energiewende-story/why-the-energiewende
