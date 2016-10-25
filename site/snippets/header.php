@@ -10,6 +10,17 @@
   <body>
   <div class="container">
   <header role="banner">
+    <nav class="languages" role="navigation">
+      <ul>
+        <?php foreach($site->languages() as $language): ?>
+        <li<?php e($site->language() == $language, ' class="active"') ?>>
+          <a href="<?php echo $language->url() ?>">
+            <?php echo html($language->name()) ?>
+          </a>
+        </li>
+        <?php endforeach ?>
+      </ul>
+    </nav>
     <div class="wrap">
       <h1 class="site-title"><a class="title-link" href="<?php echo url() ?>"><?php echo $site->title()->html() ?></a></h1>
     </div>

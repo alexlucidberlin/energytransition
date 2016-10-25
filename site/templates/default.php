@@ -8,7 +8,7 @@
       <?php echo $page->text()->kirbytext() ?>
     </section>
 
-  </div><!-- /.wrap content -->
+  </div> <?php // wrap content ?>
 
 <?php snippet('footer') ?>
-</div> <!-- /.container -->
+</div> <?php // container ?>
